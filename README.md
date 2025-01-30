@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bpalomba&label=Profile%20views&color=0e75b6&style=flat" alt="bpalomba" /> </p>
 
-- 🔭 I’m currently working on **full-stack web**
+- 🔭 I’m currently working on **back-end**
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, JAVA**
 
