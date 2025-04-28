@@ -23,7 +23,3 @@
 </ul>
 
 
-
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpalomba&show_icons=true&locale=en&layout=compact" alt="bpalomba" /></p>
-
-
