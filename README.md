@@ -22,7 +22,7 @@
 * 🤝 Open to collaborating on interesting projects
 * 💬 Let's connect and talk about software development and other interests
 * 🌐 See my portfolio at [bpportfolio-smoky.vercel.app](https://bpportfolio-smoky.vercel.app/)
-* 📧 You can contact me at [brunix.palombarini@gmail.com](mailto:brunix.palombarini@gmail.com)
+* 📧 You can contact me at <a href="mailto:brunix.palombarini@gmail.com" target="_blank">brunix.palombarini@gmail.com</a>
 <br><br>
 
 
